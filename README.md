@@ -35,3 +35,7 @@ Step4:
 Displaying the recommended images
 
 file path : https://github.com/lalchhabi/Home_Decor_Recommendation_System/blob/master/app.py
+
+Here is the image of project
+<img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Home_Decor_Recommendation_System/blob/master/demo_img.png">
+
